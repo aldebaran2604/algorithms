@@ -1,3 +1,17 @@
 /Insercion/nbproject/private/
 /MultiplicarMatrices/nbproject/private/
+<<<<<<< HEAD
 /WFT/nbproject/private/
+=======
+/Casilleros/nbproject/private/
+/BucketSort/nbproject/private/
+/BucketSort/build/
+/CountingSort/nbproject/private/
+/MergeSort/nbproject/private/
+/MergeSort/build/
+/BinaryTree/build/
+/RadixSort/nbproject/private/
+/RadixSort/build/
+/ShellSort/nbproject/private/
+/QuickSort/nbproject/private/
+>>>>>>> c90cdf502467557d51542be0638716a1559acaa8
